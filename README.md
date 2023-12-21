@@ -1,6 +1,6 @@
-# AgriPlus
+# AgroConnect
 #### This is a website for a e-commerce Agricultural company.
-#### By ** Roy Masai **
+#### By ** Ayan Nicholas, Ozonwu Frankelly, Ubi Joseph **
 ## Description
 The website showcases the about section, the products offered by an e-commerce agriculture company, and customer testimonials.
 
@@ -11,7 +11,7 @@ The website showcases the about section, the products offered by an e-commerce a
 Clone the repository
 
 ```bash
-git clone https://github.com/Masai11/Week-2-IP-AgriPlus-Website.git
+git clone https://github.com/BkayOne/AgroConnect-Frontend.git
 ```
 
 
